@@ -1,4 +1,7 @@
 # hackedradiotrigger
+
+I'm in the process of moving all of this info into a more git-friendly format, with specific code docs and higher res schematics.
+
 Micro-controller controlled radio trigger
 
 This project was originally designed as a wireless security alarm for a toilet seat (a surreal work assignment). The idea was that the alarm would go off whenever the toilet seat was lifted up. It’s based on hacking a radio trigger for a camera flash. The goal was to make the transmitter element as small, energy efficient, and water resistant as possible, while still allowing the battery to be changed easily.
