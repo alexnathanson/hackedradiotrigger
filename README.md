@@ -1,2 +1,2 @@
 # hackedradiotrigger
-Micro-controller radio trigger
+Micro-controller controlled radio trigger
