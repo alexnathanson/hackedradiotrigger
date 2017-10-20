@@ -1,3 +1,4 @@
+#! Beagle Bone Black
 #!/usr/bin/python
 
 import Adafruit_BBIO.GPIO as GPIO
@@ -42,7 +43,6 @@ def makeNoise():
 
 while True:
 	
-	#! does this hold the state of the button if it's not pressed in the moment it's checked?
 	#! if button is pressed (radio message send every 7 seconds from Trinket)
 	if GPIO.input("P8_11"):
 		#!test it
